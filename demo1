@@ -18,7 +18,7 @@
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 2,
-    "Step_Description" : "wait",
+    "Step_Description" : "//a[contains(@class,'no_border')][contains(text(),'Tester's Hub')]",
     "Control_Type" : "WebElement",
     "Locator_Type" : "",
     "Locator_Value" : "",
