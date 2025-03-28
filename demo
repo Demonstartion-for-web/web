@@ -1,7 +1,7 @@
 {
   "testSteps" : [ {
     "Step_Number" : 1,
-    "Step_Description" : "URL",
+    "Step_Description" : "password",
     "Control_Type" : "WebElement",
     "Locator_Type" : "",
     "Locator_Value" : "",
