@@ -52,7 +52,7 @@
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 4,
-    "Step_Description" : "Clear",
+    "Step_Description" : "Clear 1",
     "Control_Type" : "WebElement",
     "Locator_Type" : "Name",
     "Locator_Value" : "q",
